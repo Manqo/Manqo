@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a Data Enginner, passionated about building scalable solutions for Big Data. Also interested in financial subjects, especially stock market.
+
+🌱 I am currently learning more about cloud technologies (AWS, GCP)
+🤔 I am looking for help with python to analyse stock portfolio or rather more backtesting.
+
